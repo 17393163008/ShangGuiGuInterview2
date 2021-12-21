@@ -7,10 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="20211220" />
+        <module name="20211221" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="20211220" target="8" />
+      <module name="20211221" target="8" />
       <module name="ShangGuiGuInterview" target="8" />
     </bytecodeTargetLevel>
   </component>
